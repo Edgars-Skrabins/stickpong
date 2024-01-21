@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Death
+  - Frienemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Player
+    uniqueID: 3435762107
+    locked: 0
+  - name: Background
+    uniqueID: 110213691
+    locked: 0
+  - name: Enemies
+    uniqueID: 560124753
+    locked: 0
+  - name: Walls
+    uniqueID: 3642441855
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
